@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(245, 165, 165);
+}
+form{
+    border: 2px solid black;
+    text-align: center;
+    width: 300px;
+    background-color: rgba(245, 245, 245, 0.896);
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 10px 0px ;
+}
+h1{
+    color: rgb(60, 60, 244);
+}
+#textbox{
+    width: 50%;
+    border: 2px solid rgb(128, 127, 97);
+    text-align: center;
+    padding: 5px 5px;
+    font-size: 22px;
+    margin: 10px;
+}
+label{
+    font-size: 18px;
+    font-weight: bold;
+}
+button{
+    padding: 4px 14px;
+    margin-top: 20px;
+    background-color: rgb(242, 65, 65);
+    color: white;
+}
+button:hover{
+    background-color: rgb(220, 38, 99);
+}
+p{
+    font-size: 29px;
+    font-weight: bold;
+}
