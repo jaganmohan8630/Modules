@@ -1,0 +1,56 @@
+🚀 Showcasing My Web Development Projects! 🚀
+
+1️⃣ Interactive Counter 🔢
+
+--> Increases/decreases count dynamically
+--> Reset option for convenience
+2️⃣ Random Phone Number Generator 📱
+
+--> Generates random valid phone numbers
+--> Useful for testing applications
+3️⃣ Age Restriction Checker 🚸
+
+--> Input birth year to check eligibility
+--> Displays access permission
+4️⃣ Subscription Selection 💳
+
+--> Interactive plan selection with highlights
+--> Engaging UI for user-friendly experience
+5️⃣ Temperature Converter 🌡
+
+--> Converts between Celsius, Fahrenheit, and Kelvin
+--> Instant conversion with real-time updates
+6️⃣ Dice Roller 🎲
+
+--> Simulates a dice roll with random outcomes
+--> Great for games and fun interactions
+7️⃣ Password Generator 🔐
+
+--> Creates strong, random passwords
+--> Includes length and complexity customization
+8️⃣ Digital Clock ⏰
+
+--> Real-time clock with smooth updates
+--> Customizable display format
+9️⃣ Stopwatch ⏱
+
+--> Start, pause, and reset functionality
+--> Tracks time accurately
+🔟 Calculator ➕➖✖➗
+
+--> Basic arithmetic operations
+--> User-friendly design
+1️⃣1️⃣ Rock-Paper-Scissors Game ✊✋✌
+
+--> Play against a computer with real-time results
+--> Keeps track of scores dynamically
+1️⃣2️⃣ Image Slider 📸
+
+--> Auto/manual sliding images
+--> Smooth transition effects
+1️⃣3️⃣ Weather App 🌍🌤
+
+Fetches real-time weather based on city input
+Displays temperature, humidity, and condition
+
+#WebDevelopment #JavaScript #Coding #Projects #HTML #CSS #Frontend #Learning #Innovation
