@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 100vh;
+    background-image: url(Do_More.png);
+    background-size: cover;
+}
+#clock{
+    font-size: 130px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
